@@ -2,7 +2,8 @@
 analyze map files right away.
 
 
-**The Risk**
+**The Risk**:
+
 If Developers forget to disable or delete the .map files before production
 1. Anyone (including attackers) can:
 2. Reverse-engineer the full code structure

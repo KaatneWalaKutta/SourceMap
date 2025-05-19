@@ -34,7 +34,7 @@ def extract_map(map_file_path, output_dir):
             print(f"[+] Wrote: {safe_path}")
             extracted_count += 1
 
-    print(f"\n✅ Extraction complete. {extracted_count} files written to: {output_dir}")
+    print(f"\n Extraction complete. {extracted_count} files written to: {output_dir}")
 
 if __name__ == "__main__":
     import sys

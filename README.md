@@ -1,5 +1,7 @@
 # Sasta SourceMap
 analyze map files right away.
+
+
 **The Risk**
 If Developers forget to disable or delete the .map files before production
 1. Anyone (including attackers) can:
